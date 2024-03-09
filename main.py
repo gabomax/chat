@@ -146,7 +146,7 @@ while running:
         player2.rect.x -= player2_dx * player2.speed
         player2.rect.y -= player2_dy * player2.speed
 
-        
+
     # Effacer l'écran
     screen.fill(BLACK)
 
